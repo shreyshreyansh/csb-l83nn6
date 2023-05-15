@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "https://shreyshreyansh.github.io/csb-l83nn6/static/css/main.f760fef7.css",
+    "main.js": "https://shreyshreyansh.github.io/csb-l83nn6/static/js/main.bb083fe6.js",
+    "static/media/meals.jpg": "https://shreyshreyansh.github.io/csb-l83nn6/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "https://shreyshreyansh.github.io/csb-l83nn6/index.html",
+    "main.f760fef7.css.map": "https://shreyshreyansh.github.io/csb-l83nn6/static/css/main.f760fef7.css.map",
+    "main.bb083fe6.js.map": "https://shreyshreyansh.github.io/csb-l83nn6/static/js/main.bb083fe6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f760fef7.css",
+    "static/js/main.bb083fe6.js"
+  ]
+}
